@@ -1,2 +1,0 @@
-# schneiderman-repos
-hello
